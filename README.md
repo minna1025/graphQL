@@ -1,2 +1,2 @@
 # graphQL
-grapGL study
+graphGL study
