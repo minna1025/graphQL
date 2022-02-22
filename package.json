@@ -18,6 +18,9 @@
     "start": "nodemon --exec babel-node index.js"
   },
   "nodemonConfig": {
+    "watch": [
+      "graphql"
+    ],
     "ext": "js, ts, json, jsx, env, graphql"
   }
 }
